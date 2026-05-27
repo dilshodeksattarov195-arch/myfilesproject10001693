@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfave",
+        "uuid": 15639934,
+        "checksum": "cxnx1u"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
